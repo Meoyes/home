@@ -2,12 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://blog.meoyes.top/"
   },
   {
     "icon": "CompactDisc",
@@ -20,11 +15,6 @@
     "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
@@ -32,6 +22,16 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.meoyes.top/"
+  },
+  {
+    "icon": "Restart",
+    "name": "人生重开",
+    "link": "https://liferestart.syaro.io/public/index.html"
+  },
+  {
+    "icon": "Game",
+    "name": "俄罗斯方块",
+    "link": "https://chvin.github.io/react-tetris/"
   }
 ]

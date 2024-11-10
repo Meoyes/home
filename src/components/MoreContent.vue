@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">我是 meoyes ，生活于中国万家灯火下的一个普通人，和在座的各位一样，独守着我在互联网中的一方天地。</div>
 </template>
 
 <style lang="scss" scoped>
